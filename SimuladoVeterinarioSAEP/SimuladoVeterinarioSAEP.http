@@ -1,0 +1,6 @@
+@SimuladoVeterinarioSAEP_HostAddress = http://localhost:5299
+
+GET {{SimuladoVeterinarioSAEP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
